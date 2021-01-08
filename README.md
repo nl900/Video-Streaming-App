@@ -1,7 +1,12 @@
+# Video Streaming App
+A simple app which streams videos
+
+To start backend in the server dir
 ```
 npm run dev
 ```
-to start backend in the server dir
+
+To start frontend in the client dir
 ```
 yarn start 
 ```
@@ -9,4 +14,3 @@ or
 ```
 npm start 
 ```
-to start frontend in the client dir
